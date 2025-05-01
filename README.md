@@ -85,15 +85,11 @@ Communicating results with plots and summaries
 
 # Repository Structure
 
-MTN-Ghana-Volatility-Forecasting/
-├── data/
-│   └── MTN_GH.csv
-├── scripts/
-│   └── mtn_volatility_model.R
-├── plots/
-│   └── returns_plot.png
-│   └── volatility_forecast.png
-└── README.md
+MTN-Ghana-Volatility-Forecasting
+1. data-- MTN_GH.csv
+2. scripts- mtn_volatility_model.R
+3. plots-returns_plot.png,volatility_forecast.png
+4. README.md
 
 # How to Use
 
