@@ -102,3 +102,7 @@ Clone repo and run script using RStudio.
 Input dataset: data/MTN_GH.csv
 
 Output: diagnostic plots, volatility forecasts, error metrics
+
+# Full report
+[MTN Volatility Modelling Report.pdf](https://github.com/user-attachments/files/20000957/MTN.Volatility.Modelling.Report.pdf)
+
